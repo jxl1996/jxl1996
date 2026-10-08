@@ -4,3 +4,4 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jxl1996&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=jxl1996&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)
               
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jxl1996&layout=compact&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=jxl1996&layout=compact&langs_count=10&theme=ambient_gradient)
