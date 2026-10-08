@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+I'm+Jxl;I+%E2%9D%A4%EF%B8%8F+Open+Source.)](https://git.io/typing-svg)
 
-
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jxl1996&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=jxl1996&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient)
               
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jxl1996&layout=compact&langs_count=10&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=jxl1996&layout=compact&langs_count=10&theme=ambient_gradient)
