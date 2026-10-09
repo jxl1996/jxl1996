@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <picture><img width="492" height="205" align="top" src="https://github-stats-extended.vercel.app/api?username=jxl1996&amp;rank_icon=github&amp;custom_title=My%20Github%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=ambient_gradient" alt="GitHub Stats" /></picture>
+  <picture><img width="492" height="205" align="top" src="https://github-stats-extended.vercel.app/api?username=jxl1996&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" /></picture>
   &ensp;&ensp;
-  <picture><img width="324" height="205" align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=jxl1996&amp;layout=compact&amp;langs_count=10&amp;theme=ambient_gradient" alt="Most Used Languages" /></picture>
+  <picture><img width="324" height="205" align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=jxl1996&layout=compact&langs_count=10&theme=ambient_gradient" alt="Most Used Languages" /></picture>
 </p>
